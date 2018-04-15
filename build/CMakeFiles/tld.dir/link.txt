@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/StudyTLD-master/lib/libtld.a  CMakeFiles/tld.dir/TLD.o
+/usr/bin/ranlib /home/nagaraju/Chetan/StudyTLD-master/lib/libtld.a

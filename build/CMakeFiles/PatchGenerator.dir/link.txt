@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/StudyTLD-master/lib/libPatchGenerator.a  CMakeFiles/PatchGenerator.dir/PatchGenerator.o
+/usr/bin/ranlib /home/nagaraju/Chetan/StudyTLD-master/lib/libPatchGenerator.a

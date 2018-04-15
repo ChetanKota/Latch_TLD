@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/StudyTLD-master/lib/libLatch_tracker.a  CMakeFiles/Latch_tracker.dir/Latch_tracker.o
+/usr/bin/ranlib /home/nagaraju/Chetan/StudyTLD-master/lib/libLatch_tracker.a

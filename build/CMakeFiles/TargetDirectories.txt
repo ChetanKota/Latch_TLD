@@ -1,0 +1,9 @@
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/tld.dir
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/rebuild_cache.dir
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/run_tld.dir
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/ferNN.dir
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/tld_utils.dir
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/PatchGenerator.dir
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/LKTracker.dir
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/edit_cache.dir
+/home/nagaraju/Chetan/StudyTLD-master/build/CMakeFiles/Latch_tracker.dir
